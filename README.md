@@ -15,10 +15,15 @@ Software & Product Engineer focused on web development, scalable architecture, a
 <li>📫 How to reach me <strong>moha.nabahin@gmail.com</strong></li>
 </ul>
 
-<div style="white-space: nowrap;">Connect with me:
-<br/>
-<a href="https://linkedin.com/in/mohammed-nabahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-nabahin" height="30" width="40" /></a>
-<a href="https://medium.com/@mohdnabahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mohdnabahin" height="30" width="40" /></a>
+<div style="white-space: nowrap;">
+  <strong>Connect with me:</strong>&nbsp;
+  <br/>
+  <a href="https://linkedin.com/in/mohammed" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
+  </a>&nbsp;
+  <a href="https://medium.com/@" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30"/>
+  </a>
 </div>
 
 ### ⚒️ Languages and Tools
