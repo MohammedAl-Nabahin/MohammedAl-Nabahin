@@ -21,7 +21,7 @@ Software & Product Engineer focused on web development, scalable architecture, a
   <a href="https://linkedin.com/in/mohammed-nabahin" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
   </a>&nbsp;
-  <a href="https://medium.com/@mohadnabahin" target="_blank">
+  <a href="https://medium.com/@mohdnabahin" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30"/>
   </a>
 </div>
