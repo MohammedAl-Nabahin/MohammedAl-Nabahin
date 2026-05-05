@@ -31,36 +31,7 @@ Software & Product Engineer focused on web development, scalable architecture, a
 #### 🧩 Programming Languages
 
 <div style="white-space: nowrap;">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration:none;">
-    <span style="display:inline-block;width:56px;height:56px;background:#0f1724;border-radius:12px;padding:8px;margin-right:8px;box-sizing:border-box;vertical-align:middle;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" style="display:block;margin:0 auto;"/>
-    </span>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" style="text-decoration:none;">
-    <span style="display:inline-block;width:56px;height:56px;background:#0f1724;border-radius:12px;padding:8px;margin-right:8px;box-sizing:border-box;vertical-align:middle;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" style="display:block;margin:0 auto;"/>
-    </span>
-  </a>
-  <a href="https://www.java.com/" target="_blank" style="text-decoration:none;">
-    <span style="display:inline-block;width:56px;height:56px;background:#0f1724;border-radius:12px;padding:8px;margin-right:8px;box-sizing:border-box;vertical-align:middle;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" style="display:block;margin:0 auto;"/>
-    </span>
-  </a>
-  <a href="https://www.python.org/" target="_blank" style="text-decoration:none;">
-    <span style="display:inline-block;width:56px;height:56px;background:#0f1724;border-radius:12px;padding:8px;margin-right:8px;box-sizing:border-box;vertical-align:middle;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" style="display:block;margin:0 auto;"/>
-    </span>
-  </a>
-  <a href="https://www.php.net/" target="_blank" style="text-decoration:none;">
-    <span style="display:inline-block;width:56px;height:56px;background:#0f1724;border-radius:12px;padding:8px;margin-right:8px;box-sizing:border-box;vertical-align:middle;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP" style="display:block;margin:0 auto;"/>
-    </span>
-  </a>
-  <a href="https://www.rust-lang.org/" target="_blank" style="text-decoration:none;">
-    <span style="display:inline-block;width:56px;height:56px;background:#0f1724;border-radius:12px;padding:8px;margin-right:8px;box-sizing:border-box;vertical-align:middle;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="40" height="40" alt="Rust" style="display:block;margin:0 auto;"/>
-    </span>
-  </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration:none;"><span style="display:inline-block;width:56px;height:56px;background:#0f1724;border-radius:12px;padding:8px;margin-right:8px;box-sizing:border-box;vertical-align:middle;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" style="display:block;margin:0 auto;"/></span></a><a href="https://www.typescriptlang.org/" target="_blank" style="text-decoration:none;"><span style="display:inline-block;width:56px;height:56px;background:#0f1724;border-radius:12px;padding:8px;margin-right:8px;box-sizing:border-box;vertical-align:middle;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" style="display:block;margin:0 auto;"/></span></a><a href="https://www.java.com/" target="_blank" style="text-decoration:none;"><span style="display:inline-block;width:56px;height:56px;background:#0f1724;border-radius:12px;padding:8px;margin-right:8px;box-sizing:border-box;vertical-align:middle;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" style="display:block;margin:0 auto;"/></span></a><a href="https://www.python.org/" target="_blank" style="text-decoration:none;"><span style="display:inline-block;width:56px;height:56px;background:#0f1724;border-radius:12px;padding:8px;margin-right:8px;box-sizing:border-box;vertical-align:middle;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" style="display:block;margin:0 auto;"/></span></a><a href="https://www.php.net/" target="_blank" style="text-decoration:none;"><span style="display:inline-block;width:56px;height:56px;background:#0f1724;border-radius:12px;padding:8px;margin-right:8px;box-sizing:border-box;vertical-align:middle;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP" style="display:block;margin:0 auto;"/></span></a><a href="https://www.rust-lang.org/" target="_blank" style="text-decoration:none;"><span style="display:inline-block;width:56px;height:56px;background:#0f1724;border-radius:12px;padding:8px;margin-right:8px;box-sizing:border-box;vertical-align:middle;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="40" height="40" alt="Rust" style="display:block;margin:0 auto;"/></span></a>
 </div>
 
 #### 🎨 Frontend
@@ -80,56 +51,7 @@ Software & Product Engineer focused on web development, scalable architecture, a
 #### 🧠 Backend & Databases
 
 <div style="white-space: nowrap;">
-  <a href="https://nodejs.org" target="_blank" style="text-decoration:none;">
-    <span style="display:inline-block;width:56px;height:56px;background:#0f1724;border-radius:12px;padding:8px;margin-right:8px;box-sizing:border-box;vertical-align:middle;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js" style="display:block;margin:0 auto;"/>
-    </span>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration:none;">
-    <span style="display:inline-block;width:56px;height:56px;background:#0f1724;border-radius:12px;padding:8px;margin-right:8px;box-sizing:border-box;vertical-align:middle;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" style="display:block;margin:0 auto;"/>
-    </span>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" style="text-decoration:none;">
-    <span style="display:inline-block;width:56px;height:56px;background:#0f1724;border-radius:12px;padding:8px;margin-right:8px;box-sizing:border-box;vertical-align:middle;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" style="display:block;margin:0 auto;"/>
-    </span>
-  </a>
-  <a href="https://www.python.org/" target="_blank" style="text-decoration:none;">
-    <span style="display:inline-block;width:56px;height:56px;background:#0f1724;border-radius:12px;padding:8px;margin-right:8px;box-sizing:border-box;vertical-align:middle;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" style="display:block;margin:0 auto;"/>
-    </span>
-  </a>
-  <a href="https://expressjs.com" target="_blank" style="text-decoration:none;">
-    <span style="display:inline-block;width:56px;height:56px;background:#0f1724;border-radius:12px;padding:8px;margin-right:8px;box-sizing:border-box;vertical-align:middle;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="Express" style="display:block;margin:0 auto;"/>
-    </span>
-  </a>
-  <a href="https://nestjs.com/" target="_blank" style="text-decoration:none;">
-    <span style="display:inline-block;width:56px;height:56px;background:#0f1724;border-radius:12px;padding:8px;margin-right:8px;box-sizing:border-box;vertical-align:middle;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="40" height="40" alt="NestJS" style="display:block;margin:0 auto;"/>
-    </span>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" style="text-decoration:none;">
-    <span style="display:inline-block;width:56px;height:56px;background:#0f1724;border-radius:12px;padding:8px;margin-right:8px;box-sizing:border-box;vertical-align:middle;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL" style="display:block;margin:0 auto;"/>
-    </span>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" style="text-decoration:none;">
-    <span style="display:inline-block;width:56px;height:56px;background:#0f1724;border-radius:12px;padding:8px;margin-right:8px;box-sizing:border-box;vertical-align:middle;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB" style="display:block;margin:0 auto;"/>
-    </span>
-  </a>
-  <a href="https://www.php.net/" target="_blank" style="text-decoration:none;">
-    <span style="display:inline-block;width:56px;height:56px;background:#0f1724;border-radius:12px;padding:8px;margin-right:8px;box-sizing:border-box;vertical-align:middle;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP" style="display:block;margin:0 auto;"/>
-    </span>
-  </a>
-  <a href="https://redis.io" target="_blank" style="text-decoration:none;">
-    <span style="display:inline-block;width:56px;height:56px;background:#0f1724;border-radius:12px;padding:8px;margin-right:8px;box-sizing:border-box;vertical-align:middle;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40" alt="Redis" style="display:block;margin:0 auto;"/>
-    </span>
-  </a>
+<a href="https://nodejs.org" target="_blank" style="text-decoration:none;"><span style="display:inline-block;width:56px;height:56px;background:#0f1724;border-radius:12px;padding:8px;margin-right:8px;box-sizing:border-box;vertical-align:middle;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js" style="display:block;margin:0 auto;"/></span></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration:none;"><span style="display:inline-block;width:56px;height:56px;background:#0f1724;border-radius:12px;padding:8px;margin-right:8px;box-sizing:border-box;vertical-align:middle;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" style="display:block;margin:0 auto;"/></span></a><a href="https://www.typescriptlang.org/" target="_blank" style="text-decoration:none;"><span style="display:inline-block;width:56px;height:56px;background:#0f1724;border-radius:12px;padding:8px;margin-right:8px;box-sizing:border-box;vertical-align:middle;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" style="display:block;margin:0 auto;"/></span></a><a href="https://www.python.org/" target="_blank" style="text-decoration:none;"><span style="display:inline-block;width:56px;height:56px;background:#0f1724;border-radius:12px;padding:8px;margin-right:8px;box-sizing:border-box;vertical-align:middle;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" style="display:block;margin:0 auto;"/></span></a><a href="https://expressjs.com" target="_blank" style="text-decoration:none;"><span style="display:inline-block;width:56px;height:56px;background:#0f1724;border-radius:12px;padding:8px;margin-right:8px;box-sizing:border-box;vertical-align:middle;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="Express" style="display:block;margin:0 auto;"/></span></a><a href="https://nestjs.com/" target="_blank" style="text-decoration:none;"><span style="display:inline-block;width:56px;height:56px;background:#0f1724;border-radius:12px;padding:8px;margin-right:8px;box-sizing:border-box;vertical-align:middle;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="40" height="40" alt="NestJS" style="display:block;margin:0 auto;"/></span></a><a href="https://www.postgresql.org" target="_blank" style="text-decoration:none;"><span style="display:inline-block;width:56px;height:56px;background:#0f1724;border-radius:12px;padding:8px;margin-right:8px;box-sizing:border-box;vertical-align:middle;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL" style="display:block;margin:0 auto;"/></span></a><a href="https://www.mongodb.com/" target="_blank" style="text-decoration:none;"><span style="display:inline-block;width:56px;height:56px;background:#0f1724;border-radius:12px;padding:8px;margin-right:8px;box-sizing:border-box;vertical-align:middle;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB" style="display:block;margin:0 auto;"/></span></a><a href="https://www.php.net/" target="_blank" style="text-decoration:none;"><span style="display:inline-block;width:56px;height:56px;background:#0f1724;border-radius:12px;padding:8px;margin-right:8px;box-sizing:border-box;vertical-align:middle;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP" style="display:block;margin:0 auto;"/></span></a><a href="https://redis.io" target="_blank" style="text-decoration:none;"><span style="display:inline-block;width:56px;height:56px;background:#0f1724;border-radius:12px;padding:8px;margin-right:8px;box-sizing:border-box;vertical-align:middle;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40" alt="Redis" style="display:block;margin:0 auto;"/></span></a>
 </div>
 
 #### 🛠 DevOps & Tools
