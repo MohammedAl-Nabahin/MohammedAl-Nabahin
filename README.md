@@ -11,14 +11,6 @@ Software & Product Engineer focused on web development, scalable architecture, a
 <li>🌍 Open to working remotely</li>
 </ul>
 
-<div style="white-space: nowrap;">
-  <strong>Connect with me:</strong>&nbsp;
-  <br/>
-  <a href="https://linkedin.com/in/mohammed-nabahin" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40"/>
-  </a>&nbsp;
-</div>
-
 ### ⚒️ Languages and Tools
 
 #### 🧩 Programming Languages
@@ -101,7 +93,6 @@ Software & Product Engineer focused on web development, scalable architecture, a
 <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45"/></a>
 <a href="https://nginx.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="45"/></a>
 <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45"/></a>
-<a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45"/></a>
 
 <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45"/></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="45"/></a>
