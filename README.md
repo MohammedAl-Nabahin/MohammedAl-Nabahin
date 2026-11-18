@@ -7,12 +7,8 @@ Software & Product Engineer focused on web development, scalable architecture, a
 
 <ul>
 <li>🔭 I'm currently working on <a href="https://chromewebstore.google.com/detail/echomark/lmdgknejopfgonlofddopcmhgaaoajnf">EchoMark</a></li>
-<li>🌱 I'm currently learning <strong>AI & System Design</strong></li>
 <li>👯 I'm looking to collaborate on <strong>AI Powered Applications</strong></li>
-<li>📝 Sometimes I write articles on <a href="https://mohdnabahin.medium.com/">https://mohdnabahin.medium.com/</a></li>
-<li>💬 Ask me about <strong>Computer Science, React, Node.js</strong></li>
 <li>🌍 Open to working remotely</li>
-<li>📫 How to reach me <strong>moha.nabahin@gmail.com</strong></li>
 </ul>
 
 <div style="white-space: nowrap;">
@@ -21,9 +17,6 @@ Software & Product Engineer focused on web development, scalable architecture, a
   <a href="https://linkedin.com/in/mohammed-nabahin" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40"/>
   </a>&nbsp;
-  <a href="https://medium.com/@mohdnabahin" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="40"/>
-  </a>
 </div>
 
 ### ⚒️ Languages and Tools
